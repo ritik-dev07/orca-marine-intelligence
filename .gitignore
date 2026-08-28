@@ -1,0 +1,19 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/tsconfig.tsbuildinfo
+frontend/next-env.d.ts
+frontend/npm-debug.log*
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+
+# Local tool config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

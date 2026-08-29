@@ -13,6 +13,8 @@ backend/**/*.pyc
 
 # Local tool config
 .claude/
+# Contains a live API key (21st.dev MCP server) — must never be committed.
+.mcp.json
 
 # OS
 .DS_Store
